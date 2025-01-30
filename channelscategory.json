@@ -1,30 +1,32 @@
-{
-  "name": "wednasdayi",
-  "description": "Güzel bir Azerbaycan dizisi",
-  "thumbnail": "https://ornek.com/dizi-thumbnail.jpg",
-  "video_url": "https://ornek.com/dizi-video.m3u8",
-  "additionalInfo": {
-    "Kategori": "Azerbaycan",
-    "AltKategori": "Azerbaycan Dizileri"
+[
+  {
+    "name": "wednasdayi",
+    "description": "Güzel bir Azerbaycan dizisi",
+    "thumbnail": "https://ornek.com/dizi-thumbnail.jpg",
+    "video_url": "https://ornek.com/dizi-video.m3u8",
+    "additionalInfo": {
+      "Kategori": "Azerbaycan",
+      "AltKategori": "Azerbaycan Dizileri"
+    }
+  },
+  {
+    "name": "breaking bad",
+    "description": "Harika bir Azerbaycan filmi",
+    "thumbnail": "https://ornek.com/film-thumbnail.jpg",
+    "video_url": "https://ornek.com/film-video.m3u8",
+    "additionalInfo": {
+      "Kategori": "Azerbaycan",
+      "AltKategori": "Azerbaycan Filmleri"
+    }
+  },
+  {
+    "name": "Azerbaycan TV Show",
+    "description": "Popüler bir TV programı",
+    "thumbnail": "https://ornek.com/tv-thumbnail.jpg",
+    "video_url": "https://ornek.com/tv-video.m3u8",
+    "additionalInfo": {
+      "Kategori": "Azerbaycan",
+      "AltKategori": "Azerbaycan TV"
+    }
   }
-},
-{
-  "name": "breaking bad",
-  "description": "Harika bir Azerbaycan filmi",
-  "thumbnail": "https://ornek.com/film-thumbnail.jpg",
-  "video_url": "https://ornek.com/film-video.m3u8",
-  "additionalInfo": {
-    "Kategori": "Azerbaycan",
-    "AltKategori": "Azerbaycan Filmleri"
-  }
-},
-{
-  "name": "Azerbaycan TV Show",
-  "description": "Popüler bir TV programı",
-  "thumbnail": "https://ornek.com/tv-thumbnail.jpg",
-  "video_url": "https://ornek.com/tv-video.m3u8",
-  "additionalInfo": {
-    "Kategori": "Azerbaycan",
-    "AltKategori": "Azerbaycan TV"
-  }
-}
+]
