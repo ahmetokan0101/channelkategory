@@ -1,6 +1,6 @@
 [
   {
-    "name": "wednasdayi",
+    "name": "Wednasday",
     "description": "Güzel bir Azerbaycan dizisi",
     "thumbnail": "https://ornek.com/dizi-thumbnail.jpg",
     "video_url": "https://ornek.com/dizi-video.m3u8",
@@ -10,7 +10,7 @@
     }
   },
   {
-    "name": "breaking bad",
+    "name": "Breaking Bad",
     "description": "Harika bir Azerbaycan filmi",
     "thumbnail": "https://ornek.com/film-thumbnail.jpg",
     "video_url": "https://ornek.com/film-video.m3u8",
