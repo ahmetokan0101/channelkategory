@@ -1,32 +1,52 @@
 [
   {
-    "name": "Wednasday",
-    "description": "Güzel bir Azerbaycan dizisi",
-    "thumbnail": "https://ornek.com/dizi-thumbnail.jpg",
-    "video_url": "https://ornek.com/dizi-video.m3u8",
+    "name": "Stranger Things",
+    "description": "Netflix'in popüler dizisi",
+    "thumbnail": "https://thumbnail-url.jpg",
+    "video_url": "https://video-url.m3u8",
     "additionalInfo": {
-      "Kategori": "Müzik",
-      "AltKategori": "Wednesday"
+      "Kategori": "Netflix",
+      "AltKategori": "Netflix Dizileri"
     }
   },
   {
-    "name": "Breaking Bad",
-    "description": "Harika bir Azerbaycan filmi",
-    "thumbnail": "https://ornek.com/film-thumbnail.jpg",
-    "video_url": "https://ornek.com/film-video.m3u8",
+    "name": "The Adam Project",
+    "description": "Netflix filmi",
+    "thumbnail": "https://thumbnail-url.jpg",
+    "video_url": "https://video-url.m3u8",
+    "additionalInfo": {
+      "Kategori": "Netflix",
+      "AltKategori": "Netflix Filmleri"
+    }
+  },
+  {
+    "name": "Our Planet",
+    "description": "Netflix belgeseli",
+    "thumbnail": "https://thumbnail-url.jpg",
+    "video_url": "https://video-url.m3u8",
+    "additionalInfo": {
+      "Kategori": "Netflix",
+      "AltKategori": "Netflix Belgeselleri"
+    }
+  },
+  {
+    "name": "Kuruluş Osman",
+    "description": "Yerli dizi",
+    "thumbnail": "https://thumbnail-url.jpg",
+    "video_url": "https://video-url.m3u8",
     "additionalInfo": {
       "Kategori": "Diziler",
-      "AltKategori": "Azerbaycan Filmleri"
+      "AltKategori": "Yerli Diziler"
     }
   },
   {
-    "name": "Azerbaycan TV Show",
-    "description": "Popüler bir TV programı",
-    "thumbnail": "https://ornek.com/tv-thumbnail.jpg",
-    "video_url": "https://ornek.com/tv-video.m3u8",
+    "name": "House of the Dragon",
+    "description": "Yabancı dizi",
+    "thumbnail": "https://thumbnail-url.jpg",
+    "video_url": "https://video-url.m3u8",
     "additionalInfo": {
-      "Kategori": "Azerbaycan",
-      "AltKategori": "Azerbaycan TV"
+      "Kategori": "Diziler",
+      "AltKategori": "Yabancı Diziler"
     }
   }
 ]
