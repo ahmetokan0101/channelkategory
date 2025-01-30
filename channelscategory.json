@@ -1,0 +1,138 @@
+[
+  {
+    "id": "netflix_1",
+    "title": "Wednesday - 1.Sezon 1.Bölüm",
+    "description": "Wednesday, Nevermore Akademisi'ndeki ilk gününde esrarengiz olaylarla karşılaşır.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/ahmetokan0101/hazertvfilmdizi/main/images/wednesday.jpg",
+    "videoUrl": "https://example.com/wednesday/s01e01.m3u8",
+    "type": "series",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Netflix",
+      "Platform": "Netflix",
+      "Tür": "Dizi",
+      "Sezon": "1",
+      "Bölüm": "1",
+      "Dil": "TR Altyazılı"
+    }
+  },
+  {
+    "id": "netflix_2",
+    "title": "Wednesday - 1.Sezon 2.Bölüm",
+    "description": "Wednesday, okulda yaşanan gizemli cinayetleri araştırmaya başlar.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/ahmetokan0101/hazertvfilmdizi/main/images/wednesday.jpg",
+    "videoUrl": "https://example.com/wednesday/s01e02.m3u8",
+    "type": "series",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Netflix",
+      "Platform": "Netflix",
+      "Tür": "Dizi",
+      "Sezon": "1",
+      "Bölüm": "2",
+      "Dil": "TR Altyazılı"
+    }
+  },
+  {
+    "id": "netflix_3",
+    "title": "Wednesday - 1.Sezon 3.Bölüm",
+    "description": "Wednesday'in araştırmaları onu tehlikeli bir sırra götürür.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/ahmetokan0101/hazertvfilmdizi/main/images/wednesday.jpg",
+    "videoUrl": "https://example.com/wednesday/s01e03.m3u8",
+    "type": "series",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Netflix",
+      "Platform": "Netflix",
+      "Tür": "Dizi",
+      "Sezon": "1",
+      "Bölüm": "3",
+      "Dil": "TR Altyazılı"
+    }
+  },
+  {
+    "id": "netflix_4",
+    "title": "Wednesday - 1.Sezon 4.Bölüm",
+    "description": "Nevermore'daki gizemli olaylar derinleşirken Wednesday ipuçlarını takip eder.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/ahmetokan0101/hazertvfilmdizi/main/images/wednesday.jpg",
+    "videoUrl": "https://example.com/wednesday/s01e04.m3u8",
+    "type": "series",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Netflix",
+      "Platform": "Netflix",
+      "Tür": "Dizi",
+      "Sezon": "1",
+      "Bölüm": "4",
+      "Dil": "TR Altyazılı"
+    }
+  },
+  {
+    "id": "netflix_5",
+    "title": "Wednesday - 1.Sezon 5.Bölüm",
+    "description": "Wednesday, okulun karanlık geçmişiyle ilgili yeni gerçekleri keşfeder.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/ahmetokan0101/hazertvfilmdizi/main/images/wednesday.jpg",
+    "videoUrl": "https://example.com/wednesday/s01e05.m3u8",
+    "type": "series",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Netflix",
+      "Platform": "Netflix",
+      "Tür": "Dizi",
+      "Sezon": "1",
+      "Bölüm": "5",
+      "Dil": "TR Altyazılı"
+    }
+  },
+  {
+    "id": "netflix_6",
+    "title": "Wednesday - 1.Sezon 6.Bölüm",
+    "description": "Sırlar açığa çıkmaya başlarken Wednesday kendini tehlikeli bir durumda bulur.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/ahmetokan0101/hazertvfilmdizi/main/images/wednesday.jpg",
+    "videoUrl": "https://example.com/wednesday/s01e06.m3u8",
+    "type": "series",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Netflix",
+      "Platform": "Netflix",
+      "Tür": "Dizi",
+      "Sezon": "1",
+      "Bölüm": "6",
+      "Dil": "TR Altyazılı"
+    }
+  },
+  {
+    "id": "netflix_7",
+    "title": "Wednesday - 1.Sezon 7.Bölüm",
+    "description": "Gerçek katil ortaya çıkarken Wednesday son bir hamle yapar.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/ahmetokan0101/hazertvfilmdizi/main/images/wednesday.jpg",
+    "videoUrl": "https://example.com/wednesday/s01e07.m3u8",
+    "type": "series",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Netflix",
+      "Platform": "Netflix",
+      "Tür": "Dizi",
+      "Sezon": "1",
+      "Bölüm": "7",
+      "Dil": "TR Altyazılı"
+    }
+  },
+  {
+    "id": "netflix_8",
+    "title": "Wednesday - 1.Sezon 8.Bölüm",
+    "description": "Sezon finali: Wednesday tüm sırları çözer ve gerçek suçluyla yüzleşir.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/ahmetokan0101/hazertvfilmdizi/main/images/wednesday.jpg",
+    "videoUrl": "https://example.com/wednesday/s01e08.m3u8",
+    "type": "series",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Netflix",
+      "Platform": "Netflix",
+      "Tür": "Dizi",
+      "Sezon": "1",
+      "Bölüm": "8",
+      "Dil": "TR Altyazılı"
+    }
+  }
+]
